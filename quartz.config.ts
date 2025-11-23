@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://Zonaj2000.github.io/handmaids-tale-quartz",
+    baseUrl: "https://github.com/Zonaj2000/Handmaids_tale",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
